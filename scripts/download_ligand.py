@@ -15,7 +15,6 @@ for n,i in df.iterrows():
             ligs.append(i)
 df = pd.read_excel (r'labels/labels_ant.xlsx')
 for n,i in df.iterrows():
-    break
     if i["Label"]==1:
         temp= i["COMPOUND_IDS"]
         temp=temp.replace("[","").replace("]","").replace("'","").replace(" ","")
