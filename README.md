@@ -11,5 +11,6 @@ In summary, we have demonstrated our models ability to differentiate between ago
 
 My [BTech Project](https://github.com/RayLabIIITD/AgAnt/blob/main/BTP.pdf) report gives an overview of all the work done.
 
-Our model is hosted on //placeholder.com// and can make predictions for any given PDB ID-Ligand ID pair or Protein Sequence-Ligand SMILES pair. Additional usage instructions are detailed on the web page.
+Our model is hosted on [agant.raylab.iiitd.edu.in](http://agant.raylab.iiitd.edu.in:8005) and can make predictions for any given PDB ID-Ligand ID pair or Protein Sequence-Ligand SMILES pair. Additional usage instructions are detailed on the web page.
 
+This repository contains mostly uncommented code although the jupyter notebooks have the detailed experiments on the ProtVec and SMILES based models. 
